@@ -1,0 +1,34 @@
+@font-face {
+    font-family: 'archonormal';
+    src: url('../fonts/Archistico_Simple-webfont.woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'techregular';
+    src: url('../fonts/TechnaSans-Regular-webfont.woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+h1 {
+    font-family: 'archonormal';
+    font-weight: bold;
+    font-style: normal;
+    text-align: left;
+}
+
+form {
+    font-family: 'techregular';
+    font-weight: normal;
+    font-style: normal;
+}
+
+body{
+	background-color: rgb(122, 176, 247);
+}
+
+.center{
+    text-align: center;
+}
